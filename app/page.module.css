@@ -34,7 +34,8 @@
 .info p {
   font-family: 'Open Sans', sans-serif;
   font-weight: 400;
-  margin-bottom: 10px;
+  line-height: 1.5;
+  margin-bottom: 15px;
   text-align: center;
 }
 
