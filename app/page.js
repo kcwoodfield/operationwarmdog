@@ -25,7 +25,6 @@ export default function Home() {
 
         <section>
           <h1>How can you help?</h1>
-          {/* <p><i>There are a few ways you can help!</i></p> */}
           <ul className={styles.items}>
             <li><p>Gather old blankets, sheets, duvets, old camping blankets, etc</p></li>
             <li><p>Clothes are great! A pair of socks, old shirts, base layers you never use, old jackets.</p></li>
@@ -37,15 +36,14 @@ export default function Home() {
         </section>
 
         <section>
-          <h1>How will these items be distributed?</h1>
-          {/* <p><i>There are a few ways we can help!</i></p> */}
-          <p>Lobo and I will walk around to areas of the neighborhood we know homeless folks are staying and distribute these items on our upcoming dog walks.We'd love a giant pile of warm weather items to stuff in the sack before we head out. So feel free to drop them off at our door.<br/><strong><i>If you have suggestion for a different location please reach out below.</i></strong></p>
+          <h1>Drop off or pick up?</h1>
+          <p>Drop them off at #225 or send us a note here and we'll try to come get them. </p>
+          <p>If you are a coworker, friend or neighbor and can't get to our place, no worries we'll come get your items OR you can drop them off at the office and we'll come get them.  <br/><br/>Ping me for more details. Will try to reply asap: <Link href="mailto:kevin@operationwarmdog.org">kevin@operationwarmdog.org</Link></p>
         </section>
 
         <section>
-          <h1>Want to drop off warm weather items?</h1>
-          <p>Drop them off at #225 or send us a note here and we'll try to come get them. </p>
-          <p>If you are a coworker, friend or neighbor and can't get to our place, no worries we'll come get your items OR you can drop them off at the office and we'll come get them.  <br/><br/>Ping me for more details. Will try to reply asap: <Link href="mailto:kevin@operationwarmdog.org">kevin@operationwarmdog.org</Link></p>
+          <h1>How will these items be distributed?</h1>
+          <p>Lobo and I will walk around to areas of the neighborhood we know homeless folks are staying and distribute these items on our upcoming dog walks.We'd love a giant pile of warm weather items to stuff in the sack before we head out. So feel free to drop them off at our door.<br/><strong><i>If you have suggestion for a different location please reach out below.</i></strong></p>
         </section>
 
         <section>
