@@ -28,7 +28,7 @@ export default function Home() {
           {/* <p><i>There are a few ways you can help!</i></p> */}
           <ul className={styles.items}>
             <li><p>Gather old blankets, sheets, duvets, old camping blankets, etc</p></li>
-            <li><p>Clothes are great! Socks, shirts, base layers, jackets, etc</p></li>
+            <li><p>Clothes are great! A pair of socks, old shirts, base layers you never use, old jackets.</p></li>
             <li><p>Gloves, hats, scarves work also.</p></li>
           </ul>
 
