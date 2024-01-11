@@ -30,8 +30,9 @@ export default function Home() {
             <li><p>Gather old blankets, sheets, duvets, old camping blankets, etc</p></li>
             <li><p>Clothes are great! Socks, shirts, base layers, jackets, etc</p></li>
             <li><p>Gloves, hats, scarves work also.</p></li>
-            <li><p><i><strong>If you can please provide clean clothes. <br/>How nice would it be to have a nice clean blanket to wrap around your back?</strong></i></p></li>
           </ul>
+
+          <p className={styles.callout}><i><strong>If you can please provide clean clothes. How nice would it be to have a nice clean blanket to wrap around your back?</strong></i></p>
         </section>
 
         <section>

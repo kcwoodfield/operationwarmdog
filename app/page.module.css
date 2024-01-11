@@ -16,7 +16,7 @@
 .info {
  margin-top: 20px;
  width: 100%;
- max-width: 800px;
+ max-width: 600px;
   margin: 0 auto;
 }
 
@@ -39,16 +39,28 @@
   text-align: center;
 }
 
+.info p.callout {
+  text-align: left;
+  padding-left: 40px;
+}
+
 .info section {
   margin-top: 30px;
 }
 
 .items {
-  list-style: none;
+  list-style: disc;
   margin-bottom: 10px;
+  padding-left: 40px;
+  width: 100%;
 }
 
 .items li {
-  text-align: center;
+  padding: 0;
+  margin: 0;
+}
+
+.items li p {
+  text-align: left;
 }
 
