@@ -25,7 +25,7 @@ export default function Home() {
 
         <section>
           <h1>How can you help?</h1>
-          <p><i>There are a few ways you can help!</i></p>
+          {/* <p><i>There are a few ways you can help!</i></p> */}
           <ul className={styles.items}>
             <li><p>Gather old blankets, sheets, duvets, old camping blankets, etc</p></li>
             <li><p>Clothes are great! Socks, shirts, base layers, jackets, etc</p></li>
