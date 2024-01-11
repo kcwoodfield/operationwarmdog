@@ -1,11 +1,23 @@
 import Image from 'next/image'
 import Link from 'next/link'
+import Script from 'next/script'
 import styles from './page.module.css'
 
 
 export default function Home() {
   return (
     <main>
+      <Script src="https://www.googletagmanager.com/gtag/js?id=G-FXGQ455GL5" />
+      <Script id="google-analytics">
+        {`
+          window.dataLayer = window.dataLayer || [];
+          function gtag(){dataLayer.push(arguments);}
+          gtag('js', new Date());
+
+          gtag('config', 'G-FXGQ455GL5');
+        `}
+      </Script>
+
       <div className={styles.wrapper}>
         <Image
           className={styles.logo}
