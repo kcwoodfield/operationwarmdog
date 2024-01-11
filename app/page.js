@@ -37,7 +37,7 @@ export default function Home() {
 
         <section>
           <h1>Drop off or pick up?</h1>
-          <p>Drop them off at #225 or send us a note here and we'll try to come get them. </p>
+          <p>Drop your items off at #225 or send us a note here and we'll try to come get them. </p>
           <p>If you are a coworker, friend or neighbor and can't get to our place, no worries we'll come get your items OR you can drop them off at the office and we'll come get them.  <br/><br/>Ping me for more details. Will try to reply asap: <Link href="mailto:kevin@operationwarmdog.org">kevin@operationwarmdog.org</Link></p>
         </section>
 
