@@ -32,7 +32,7 @@ export default function Home() {
             <li><p>Gloves, hats, scarves, skiing gear work also.</p></li>
           </ul>
 
-          <p className={styles.callout}><i><strong>Please provide clean clothes. How nice would it be to have a nice clean blanket to wrap around your back?</strong></i></p>
+          <p className={styles.callout}><i><strong>Please try to provide clean items. How nice would it be to have a nice clean blanket to wrap around your back?</strong></i></p>
 
         </section>
 
