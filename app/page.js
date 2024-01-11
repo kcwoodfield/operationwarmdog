@@ -46,6 +46,11 @@ export default function Home() {
           <h1>Have an idea? Hit us up!</h1>
           <p>Send us a note here: <Link href="mailto:kevin@operationwarmdog.org">kevin@operationwarmdog.org</Link></p>
         </section>
+
+        <section>
+          <h1>Want to drop off warm weather items?</h1>
+          <p>Send us a note here and we'll reply asap: <Link href="mailto:kevin@operationwarmdog.org">kevin@operationwarmdog.org</Link></p>
+        </section>
        </div>
     </main>
   )
