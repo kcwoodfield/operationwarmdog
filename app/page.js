@@ -55,7 +55,7 @@ export default function Home() {
 
         <section>
           <h1>How will these items be distributed?</h1>
-          <p>Lobo and I will walk around to areas of the neighborhood we know homeless folks are staying and distribute these items on our upcoming dog walks. We'd love a giant pile of warm weather items to stuff in the sack before we head out. <br/><strong><i>If you have suggestion for a different location please reach out below.</i></strong></p>
+          <p>Lobo and I will walk around to areas of the neighborhood we know homeless folks are staying and distribute these items on our upcoming dog walks. We'd love a giant pile of cold weather gear to stuff in the sack before we head out. <br/><strong><i>If you have suggestion for a different location please reach out below.</i></strong></p>
         </section>
 
         <section>
