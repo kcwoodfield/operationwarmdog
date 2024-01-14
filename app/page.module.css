@@ -69,3 +69,24 @@
   font-size: 12px;
   font-style: italic;
 }
+
+.update {
+  margin: 0 auto;
+  width: 100%;
+  height: 225px;
+  max-width: 225px;
+  background: #2986cc;
+  padding: 10px;
+  border-radius: 500px;
+}
+
+.update h1 {
+  color: #ffffff;
+  font-size: 20px;
+  margin-top: 40px;
+}
+
+.update p {
+  color: #ffffff;
+  font-size: 12px;
+}

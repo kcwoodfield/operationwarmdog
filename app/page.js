@@ -30,6 +30,12 @@ export default function Home() {
       </div>
 
       <div className={styles.info}>
+
+        <section className={styles.update}>
+          <h1>Thank you!</h1>
+          <p>All donations have been distributed around our neighhood. Thank you to everyone who donated!</p>
+        </section>
+
         <section>
           <h1>Help kill the chill</h1>
           <p>The upcoming weekend in Austin, TX is going to be <strong>very cold</strong>. <br/>Help Lobo and I collect and distribute warm blankets, sheets and clothes to the homeless in our neighborhood.</p>
