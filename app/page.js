@@ -33,7 +33,7 @@ export default function Home() {
 
         <section className={styles.update}>
           <h1>Thank you!</h1>
-          <p>All donations have been distributed around our neighborhood. Thank you to everyone who donated!</p>
+          <p>All donations have been distributed around our neighborhood. Thank you to everyone who donated!<br/><br/> <i>1/14/2024</i></p>
         </section>
 
         <section>
